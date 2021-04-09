@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    border: 5px inset #0E53A7 ;
+}
+
+body {
+    font-family:sans-serif;
+    background-color:PowderBlue;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+}
+
+footer a{
+    font-size: 20px;
+    color:black;
+    text-decoration: none;
+}
+
+.Кирк {
+    padding-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.gumbull {
+    text-align: center;
+}
+
+.darwin {
+    margin-left: 50px;
+}
+
+.ice {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.dino {
+    border-radius: 50px;
+}
